@@ -1,4 +1,4 @@
-# This project was built for kunal ai internship assignment
+# This project was built for kula ai internship assignment
 
 
 # Getting Started with Create React App
